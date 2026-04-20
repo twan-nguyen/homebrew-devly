@@ -1,6 +1,6 @@
 cask "hostsmanager" do
-  version "1.7.3"
-  sha256 "72b6bbe98741cc728f093b4dab4a01b6319f66fee959dbd774a4720ba7404bf5"
+  version "1.7.4"
+  sha256 "0257e9a9b89c1aa7ecf72c09a8ffa3ea9fbf7a751c36e0d886541cd33fd0b301"
 
   url "https://github.com/twannguyenba-hash/HostsManager/releases/download/v#{version}/HostsManager-v#{version}.zip"
   name "HostsManager"
