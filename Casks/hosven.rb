@@ -1,6 +1,6 @@
 cask "hosven" do
-  version "1.0.4"
-  sha256 "e1d84d11462bad5f2e61633154658204d9240cc9881eb6530067fd7f53adc553"
+  version "1.0.5"
+  sha256 "b3f65b13df71ade56c4c43a3f41154ddce5ac25e19c84198ddb2c549b57efc77"
 
   url "https://github.com/twan-nguyen/hosven/releases/download/v#{version}/Hosven-v#{version}.zip"
   name "Hosven"
